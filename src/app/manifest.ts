@@ -14,8 +14,8 @@ const manifest = async (): Promise<MetadataRoute.Manifest> => {
           type: 'image/png',
         },
       ],
-      name: 'LobeHub',
-      short_name: 'LobeHub',
+      name: 'VOLTRON',
+      short_name: 'VOLTRON',
       start_url: '/',
       theme_color: '#000000',
     };
